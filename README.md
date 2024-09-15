@@ -1,3 +1,3 @@
 # simple two player pong game 
 
-Must use this environment: https://processing.org/download
+1. use this environment for setup: https://processing.org/download
